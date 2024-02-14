@@ -12,7 +12,7 @@ add this to your package.json
 `
     "@layerzerolabs/contracts": "latest",
 `
-### Setup
+### Setup britie loxov
 - copy .env.example to .env and fill in variables
 - `yarn install`
 ### Testing
